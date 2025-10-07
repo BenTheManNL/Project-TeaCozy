@@ -158,6 +158,10 @@ footer {
 }
 
 @media (max-width: 768px) {
+  .logo img {
+    max-height: 25px;
+  }
+
   .nav-items {
     font-size: 15px;
     align-items: center;
@@ -181,3 +185,4 @@ footer {
     height: 14px;
   }
 }
+
